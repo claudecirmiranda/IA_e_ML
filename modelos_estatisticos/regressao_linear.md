@@ -19,3 +19,40 @@ A regressão linear é uma ferramenta poderosa para modelar e entender a relaç�
 * Interpretar e comunicar os resultados obtidos por meio da análise de regressão de forma clara e precisa.
 
 Dominar a regressão linear é um passo fundamental para quem deseja entender e interpretar relações entre variáveis em diversos contextos, desde pesquisa científica até análise de mercado. Esta técnica oferece uma maneira poderosa de extrair insights valiosos dos dados e tomar decisões fundamentadas com base em evidências sólidas. Ao aprender a aplicar e interpretar modelos de regressão, estamos adquirindo uma habilidade essencial que pode impulsionar a carreira e contribuir significativamente para o campo de estudo de IA e LM.
+
+### OS 5 PRINCIPAIS MODELOS ESTATÍSTICOS
+
+* Regressão linear
+* Análise de ariância (ANOVA)
+* Regressão Logística
+* Análise deSobreviênvia
+* Séries Temporais
+
+### O que é um Modelo Estatístico
+* Representação simplificada e abstrata de um fenomeno
+* Que descreve a relação entre variáveis para entender, analisar e prever dados
+* Buscando compreender padrões, explorar relações e tomar decisões
+
+### Modelar para:
+
+* Compreender o fenômeno
+* Previs e predizer
+* Testar as hipóteses
+
+### Objetivos da Modelagem Estatística
+
+* Descrição
+* Inferência
+* Previsão
+* Controle e otimização
+
+### Etapas da Modelagem Estatística
+
+* Formulação do Problema
+* Coleta de Dados
+* Exploração de Dados
+* Seleção do Modelo - 
+* Estimação dos Parâmetros
+* Validação dos Resultados
+
+ 
